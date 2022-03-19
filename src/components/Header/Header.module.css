@@ -1,0 +1,38 @@
+.header{
+    z-index: 10000;
+    width: 1920px;
+    height: 64px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1320px;
+  margin: 0 auto; 
+  }
+  
+  .getStartedBtn{
+    width: 175px;
+    height: 42px;
+    top: 11px;
+  
+    border: 1px solid #8276FF;
+    box-sizing: border-box;
+    border-radius: 131px;
+    background-color: #FFFFFF;
+  }
+  
+  .getStartedBtn{
+    cursor: pointer;
+  }
+  
+  .headerNavTag{
+    margin-right: 32px;
+  }
+  
+  .headerNavTag:hover{
+    cursor: pointer;
+  }
+  
+  .logo:hover{
+    cursor: pointer;
+  }

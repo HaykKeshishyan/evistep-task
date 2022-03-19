@@ -1,0 +1,37 @@
+.footerBottom {
+    height: 73px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(130, 118, 255, 0.04);
+    backdrop-filter: blur(70px);
+}
+
+.footerIcons {
+    margin-right: 12.45px;
+    width: 22px;
+}
+
+.footerIcons:hover {
+    cursor: pointer;
+}
+
+.copywrite {
+    display: flex;
+    align-items: center;
+    margin-left: 17.23px;
+}
+
+.footerYear {
+    font-size: 23.27px;
+    margin-left: 3px;
+}
+
+.footerLeft {
+    display: flex;
+    align-items: center;
+}
+
+.logo:hover {
+    cursor: pointer;
+}

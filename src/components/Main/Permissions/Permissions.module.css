@@ -1,0 +1,52 @@
+.permissions{
+    padding: 130px 0px;
+}
+
+.yellowHeader{
+    text-align: center;
+    color: #FFBE5B;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    margin: 5px;
+}
+
+.header{
+    text-align: center;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 49px;
+    margin: 5px;
+}
+
+.content{
+    padding-top: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1320px;
+    margin: 0 auto; 
+}
+
+.chooseCard{
+    padding: 7px 0px;
+    padding-left: 26px;
+    margin-top: 34px;
+}
+
+.chooseCard:hover{
+    cursor: pointer;
+}
+
+.name{
+    margin-left: 16px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.cardHead{
+    display: flex;
+    align-items: center;
+}

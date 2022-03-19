@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.elipse{
+  position: absolute;
+ background-color: #C4C4C4;
+ width: 3725px;
+ height: 2175px;
+ border-radius: 100%;
+ left: -902.5px;
+ top: -1405.23px;
+}
+
+

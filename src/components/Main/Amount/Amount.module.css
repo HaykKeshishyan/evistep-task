@@ -1,0 +1,12 @@
+.amount {
+    padding-top: 63px;
+    max-width: 1320px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.amountRight {
+    margin-top: 21px;
+    margin-left: 115px;
+}

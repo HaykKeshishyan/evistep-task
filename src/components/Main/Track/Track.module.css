@@ -1,0 +1,72 @@
+.track {
+    height: 405px;
+    background: rgba(130, 118, 255, 0.05);
+    overflow: hidden;
+}
+
+.contentContainer {
+    margin-top: 94px;
+    display: flex;
+    justify-content: center;
+}
+
+.trackHeader {
+    margin: auto;
+    width: 517px;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.inputs {
+    padding-top: 41px;
+    width: 668px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.input {
+    width: 428px;
+    height: 56px;
+    padding-left: 20px;
+    font-size: 18px;
+    background: #fafeff;
+    border: 1.5px solid #f3f1ff;
+    box-sizing: border-box;
+    border-radius: 28.5px;
+}
+
+.button {
+    width: 232px;
+    height: 56px;
+    padding-left: 20px;
+    font-size: 18px;
+    background: #8276ff;
+    border: 1.5px solid #8276ff;
+    box-sizing: border-box;
+    border-radius: 28.5px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.use {
+    font-weight: 400;
+    color: #ffc107;
+    font-size: 14px;
+}
+
+.use:hover {
+    cursor: pointer;
+}
+
+.cube {
+    width: 628.91px;
+    height: 652.69px;
+    background: rgba(130, 118, 255, 0.5);
+    transform: rotate(45deg) translateX(-600px) translateY(50px);
+    border-radius: 40px;
+}

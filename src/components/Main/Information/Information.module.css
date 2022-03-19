@@ -1,0 +1,16 @@
+.information {
+    background: rgba(99, 133, 253, 0.7);
+    height: 475px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1320px;
+    margin: auto;
+}
+
+.infoLeft {
+    width: 454px;
+}

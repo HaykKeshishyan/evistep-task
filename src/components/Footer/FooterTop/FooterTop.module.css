@@ -1,0 +1,21 @@
+.footerTop {
+    height: 260px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 30px;
+}
+
+.li {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.li:hover {
+    cursor: pointer;
+}
+
+.ul {
+    padding-left: 0px;
+}

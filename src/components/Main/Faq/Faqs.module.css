@@ -1,0 +1,38 @@
+.faqs{
+    height: 908px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+.faqHeader{
+    margin: auto;
+    width: 517px;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.faqline{
+    padding-top: 26px;
+    border-top: 1px solid rgba(55, 67, 78, 0.2);;
+    width: 843px;
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+    align-items: center;
+}
+
+.lineHeader{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.arrow {
+    margin: auto;
+}
+
+.arrow:hover {
+    cursor: pointer;
+}
